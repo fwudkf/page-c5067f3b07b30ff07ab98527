@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "48dd6f581902e2c23a5d5dad",
+  "owner": "fwudkf",
+  "repo": "page-c5067f3b07b30ff07ab98527",
+  "title": "长颈鹿",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5067f3b07b30ff07ab98527",
+      "a": "长颈鹿",
+      "b": "稳定全球clash加速器",
+      "entity": "长颈鹿",
+      "brand": "长颈鹿",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6ef86879efc6514fb09c56a6e4756ab45f7070a0c17b4ea6d57afab71288febf",
+      "content": {
+        "primary_entity": "长颈鹿",
+        "keyword1": "长颈鹿",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "按设备挑选套餐，导入订阅即可开始使用长颈鹿。",
+          "AI_CLOSING_TITLE": "开始连接全球网络",
+          "AI_DESCRIPTION": "，长颈鹿提供覆盖多地区的加速线路，支持 Clash 客户端订阅导入。基础版适合轻度使用，旗舰版在流量与设备数上更宽裕，团队版面向多人协作。设备数量与月流量按套餐区分，按年付可获更优价格。",
+          "AI_FEATURES_INTRO": "从套餐选择到订阅配置，关注设备与流量需求。",
+          "AI_FEATURES_TITLE": "使用前值得了解",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月，支持 3 台设备；旗舰版 300GB/月，支持 5 台设备；团队版 1000GB/月，支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "套餐匹配设备",
+          "AI_FEATURE_TITLE_2": "年度订阅更省",
+          "AI_FEATURE_TITLE_3": "进阶线路支持",
+          "AI_GUIDE_INTRO": "选择服务、确认适配、配置订阅三步完成。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "长颈鹿提供稳定全球网络加速，支持 Clash 客户端订阅导入，覆盖常见设备系统。套餐按流量与设备数量划分，便于根据使用场景选择。",
+          "AI_HERO_SUBTITLE": "稳定加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "按流量与设备数划分套餐",
+          "AI_HIGHLIGHT_2": "支持 Clash 订阅导入",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和线路支持上各有侧重，按年付价格更优。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备系统与客户端的适配说明，确认当前设备满足要求。",
+          "AI_STEP_TEXT_3": "依照 Clash 客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "长颈鹿全球加速",
+          "AI_FAQ_ANSWER_1": "基础版含每月100GB流量，支持3台设备；旗舰版每月300GB、5台设备，带全节点流媒体解锁和IPLC专线；团队版每月1000GB、20台设备，含VIP高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_2": "年付更划算，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。按月付费则分别为¥15、¥35和¥85，可按使用时长灵活选择。",
+          "AI_FAQ_ANSWER_3": "同一时间在线的设备数量由套餐决定，基础版3台、旗舰版5台、团队版20台。超出后需要先下线其他设备再连接。",
+          "AI_FAQ_ANSWER_4": "主流订阅链接可直接导入Clash、Shadowrocket等客户端，长颈鹿不绑定特定软件。具体导入方式以客户端文档为准，遇到问题可提交工单获取帮助。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供7x24优先工单支持，IPLC专线针对游戏和实时会议做优化。如有低延迟需求，也可以先用团队版的高带宽节点做对比测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "长颈鹿套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付的价格差多少？",
+          "AI_FAQ_QUESTION_3": "同时可以几台设备在线使用？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "有没有针对游戏加速的线路支持？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "icpdq.cn",
+    "host": "icpdq.cn"
+  },
+  "file_hashes": {
+    "index.html": "7f7ded8d21a5a40cf84b07c1dc13c13f983495835c8882434f65afd53d6482de",
+    "sitemap.xml": "384df488df7d95714b52cd4f98d630ef53052ed4cc9a02a9c5794886daa66d20",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ebac1e820872277357ad5bff8dac67da9df7239d8234b97980ca034b62fdded",
+    "robots.txt": "2b5001767c24c83477a0bdb8834f1aa2f39bd7fdc2f468cb85b7de8445f97e67",
+    "4619aa72edceaed91c74572ade6df9ed.txt": "f40e2d592970aa6f3233b40e50daf377ff32f9e01ca5df64e5ab26f726b7f306"
+  },
+  "revision": "9fd9b952906c7912dc66db63ac88353f000eeb7155e254c6e5df9faf6cc16493"
+}
